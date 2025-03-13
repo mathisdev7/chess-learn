@@ -1,0 +1,18 @@
+{
+  "black": {
+    "rook": "https://images.chesscomfiles.com/chess-themes/pieces/neo/150/br.png",
+    "knight": "https://images.chesscomfiles.com/chess-themes/pieces/neo/150/bn.png",
+    "bishop": "https://images.chesscomfiles.com/chess-themes/pieces/neo/150/bb.png",
+    "queen": "https://images.chesscomfiles.com/chess-themes/pieces/neo/150/bq.png",
+    "king": "https://images.chesscomfiles.com/chess-themes/pieces/neo/150/bk.png",
+    "pawn": "https://images.chesscomfiles.com/chess-themes/pieces/neo/150/bp.png"
+  },
+  "white": {
+    "rook": "https://images.chesscomfiles.com/chess-themes/pieces/neo/150/wr.png",
+    "knight": "https://images.chesscomfiles.com/chess-themes/pieces/neo/150/wn.png",
+    "bishop": "https://images.chesscomfiles.com/chess-themes/pieces/neo/150/wb.png",
+    "queen": "https://images.chesscomfiles.com/chess-themes/pieces/neo/150/wq.png",
+    "king": "https://images.chesscomfiles.com/chess-themes/pieces/neo/150/wk.png",
+    "pawn": "https://images.chesscomfiles.com/chess-themes/pieces/neo/150/wp.png"
+  }
+}
